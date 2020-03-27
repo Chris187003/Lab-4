@@ -1,0 +1,14 @@
+
+
+.row-one{
+    display: grid;
+    grid-template-columns: 1fr 5fr 2fr; 
+    height: 10vh;
+    background-color: #05fc26ab;
+}
+
+
+.containter-padding{
+    margin: 12px;
+    border: 1px dashed #0111f7;
+}
