@@ -1,3 +1,7 @@
+.pull-right {
+    float:right;
+}
+
 .row-two {
     display: grid;
     grid-template-columns: 1fr 5fr 2fr;
